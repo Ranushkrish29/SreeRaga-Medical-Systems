@@ -75,15 +75,12 @@ class Welcome extends Component {
                         
                 {this.state.first && <div className="animloca"> 
                     <div id="wcsection1">
-                        {/* <img src="./images/bg1/1.png" className="img-flui  " id="id1"/>
-                        <img src="./images/bg1/2.png" className="img-flui " id="id2" />
-                        <img src="./images/bg1/3.png" className="img-flui  " id="id3"/> */}
                         <div id="id1" className="d01"></div>
                         <div id="id2"  className="d02"></div>
                         <div id="id3" className="d03"></div>
-                        <img src="./images/imgforweb/x-ray1.png" className="img-fluidw1  animate__animated animate__fadeInUpBig animate__slower " id="id4"/>
-                        <img src="./images/imgforweb/x-ray2.png" className="img-fluidw1  animate__animated animate__fadeInUpBig animate__slow" id="id5" />
-                        <img src="./images/imgforweb/icu bed.png" className="img-fluidw1  animate__animated animate__fadeInUpBig  animate__slower" id="id6"/>
+                        <img src="./images/imgforweb/x-ray2.png" className="img-fluidw1 animate__animated animate__fadeInUpBig animate__slower " id="id4"/>
+                        <img src="./images/imgforweb/x-ray2.png" className="img-fluidw1 animate__animated animate__fadeInUpBig animate__slow" id="id5"/>
+                        <img src="./images/imgforweb/icu bed.png"className="img-fluidw1  animate__animated animate__fadeInUpBig  animate__slower" id="id6"/>
                         <img src="./images/imgforweb/ecg monitor.png" className="img-fluidw1  animate__animated animate__fadeInUpBig animate__slow" id="id7"/>
                        
                     </div>
@@ -95,9 +92,6 @@ class Welcome extends Component {
                         <div id="id1"  className="d21"></div>
                         <div id="id2" className="d22"></div>
                         <div id="id3" className="d23"></div>
-                        {/* <img src="./images/bg2/1.png" className="img-flui  " id="id1"/>
-                        <img src="./images/bg2/2.png" className="img-flui " id="id2" />
-                        <img src="./images/bg2/3.png" className="img-flui  " id="id3"/> */}
                         <img src="./images/imgforweb/wheel chairs.png" className="img-fluidw animate__animated animate__fadeInUpBig animate__slower " id="id4"/>
                         <img src="/images/imgforweb/pluse oximeter.png" className="img-fluidw animate__animated animate__fadeInUpBig animate__slow" id="id5" />
                         <img src="./images/imgforweb/oxygenregulator.png" className="img-fluidw animate__animated animate__fadeInUpBig  animate__slower" id="id6"/>
@@ -112,9 +106,6 @@ class Welcome extends Component {
                         <div id="id1"  className="d11"></div>
                         <div id="id2"  className="d12"></div>
                         <div id="id3"  className="d13"></div>
-                        {/* <img src="./images/bg3/1.png" className="img-flui  " id="id1"/>
-                        <img src="./images/bg3/2.png" className="img-flui " id="id2" />
-                        <img src="./images/bg3/3.png" className="img-flui  " id="id3"/> */}
                         <img src="./images/imgforweb/digital themometer.png" className="img-fluidw animate__animated animate__fadeInUpBig animate__slower " id="id4"/>
                         <img src="./images/imgforweb/Thermal paper.png" className="img-fluidw animate__animated animate__fadeInUpBig animate__slow" id="id5" />
                         <img src="./images/imgforweb/ECG cables.png" className="img-fluidw animate__animated animate__fadeInUpBig  animate__slower" id="id6"/>
@@ -129,9 +120,6 @@ class Welcome extends Component {
                         <div id="id1"  className="d31"></div>
                         <div id="id2"  className="d32"></div>
                         <div id="id3"  className="d33"></div>
-                        {/* <img src="./images/bg4/1.png" className="img-flui  " id="id1"/>
-                        <img src="./images/bg4/2.png" className="img-flui " id="id2" />
-                        <img src="./images/bg4/3.png" className="img-flui  " id="id3"/> */}
                         <img src="./images/imgforweb/sanitizer.pngg" className="img-fluidw animate__animated animate__fadeInUpBig animate__slower " id="id4"/>
                         <img src="./images/imgforweb/kn95mask.png" className="img-fluidw animate__animated animate__fadeInUpBig animate__slow" id="id5" />
                         <img src="./images/imgforweb/digital themometer.png" className="img-fluidw animate__animated animate__fadeInUpBig  animate__slower" id="id6"/>
