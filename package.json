@@ -1,7 +1,7 @@
 {
   "name": "webapp",
   "version": "0.1.0",
-  "homepage": "https://Ranushkrish29.github.io/Sree-Raga-Medical-Systems.git",
+  "homepage": "https://Ranushkrish29.github.io/SreeRaga-Medical-Systems.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
